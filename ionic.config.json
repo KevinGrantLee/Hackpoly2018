@@ -1,0 +1,8 @@
+{
+  "name": "musicPuzzle",
+  "app_id": "2cd64093",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
